@@ -1,0 +1,6 @@
+.idea
+camera_params.npz
+/calibration/*.jpg
+yolov4.weights
+/videos/*.mp4
+/archive/
